@@ -15,6 +15,9 @@ setup(
         'numpy',
         'posthog',
         'tiktoken',
-        'resend'
+        'resend',
+        'waitress',
+        'torch',
+        'transformers'
     ],
 )
